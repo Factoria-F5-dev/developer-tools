@@ -6,7 +6,7 @@ style: |
   h1 {color: white}
   .lead {color: white}
   section {
-    background: #ff4702;
+    background:rgba(160, 47, 213, 0.7);
     color: white;
   }
   blockquote {
