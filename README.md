@@ -129,13 +129,10 @@ Gestión de datos del lado del cliente (Antes de que el usario cree una cuenta p
 
 ## 💡 8. Tips Avanzados
 
-- 📱 Practica con el modo responsive
-- 📱 TODO: Modificar sensores para testing
-- ♿ TODO: Verificar accesibilidad: Medir contraste de colores y Auditorías y recomendaciones
-- 📊 TODO: Coverage: Encuentra CSS y JS no utilizado: Analiza código cargado vs utilizado y Optimiza el tamaño de tus páginas
-- 📱 TODO: Progressive Web Apps
-- 🎨 TODO: Personaliza tu workspace
-- 🔍 TODO: Aprende las Chrome DevTools APIs
+- 📱 Practica con el modo responsive (Hacer pruebas)
+- 📱 Modificar sensores para testing (Tres puntos > More tools > Sensors)
+- ♿ Verificar accesibilidad: Medir contraste de colores (En apple en el botón poner background-color y revisar el resultado) y comprobar los atributos Aria
+- 📊 Coverage: Encuentra CSS y JS no utilizado: Analiza código cargado vs utilizado y Optimiza el tamaño de tus páginas (Tres puntos > More tools > Coverage)
 
 ---
 
